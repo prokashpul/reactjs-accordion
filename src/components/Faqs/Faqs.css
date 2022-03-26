@@ -1,0 +1,14 @@
+.Faqs {
+  width: 920px;
+  margin: 0 auto;
+}
+@media (max-width: 920px) {
+  .Faqs {
+    width: 80%;
+  }
+}
+@media (max-width: 678px) {
+  .Faqs {
+    width: 94%;
+  }
+}
